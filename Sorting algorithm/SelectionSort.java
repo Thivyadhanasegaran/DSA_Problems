@@ -39,7 +39,7 @@ public class SelectionSort {
 //        number[i] = number[j];
 //        number[j] = temp;
 //    }
-//Udemy Method:
+
         for (int i = 0; i < array.length; i++) {
             int minIndex = i;
 
@@ -61,5 +61,3 @@ public class SelectionSort {
 /*
 Time Complexity: O(N^2)
  */
-//References (Udemy)
-//https://www.udemy.com/course/data-structures-and-algorithms-java/learn/lecture/29903274#questions

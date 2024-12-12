@@ -26,9 +26,7 @@ class MergeSort {
 
     }
 
-    //Udemy code
-    //https://www.udemy.com/course/data-structures-and-algorithms-java/learn/lecture/29912906#overview
-    public static int[] mergeSort(int[] array) {
+     public static int[] mergeSort(int[] array) {
 
         if (array.length == 1) {
             return array;
@@ -82,7 +80,7 @@ class MergeSort {
 
 }
 
-// Youtube code
+
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
 // Second subarray is arr[m+1..r]

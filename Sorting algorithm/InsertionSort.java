@@ -42,8 +42,6 @@ public class InsertionSort {
 //
 //        }
 
-//Udemy:
-//References :https://www.udemy.com/course/data-structures-and-algorithms-java/learn/lecture/29903282#questions
         for (int i = 1; i < array.length; i++) {
             int temp = array[i];
             int j = i - 1;

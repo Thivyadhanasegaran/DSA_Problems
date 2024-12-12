@@ -24,9 +24,7 @@ public class QuickSort {
         }
     }
 
-    //Udemy method
-    //https://www.udemy.com/course/data-structures-and-algorithms-java/learn/lecture/29930618#overview
-    public static void quickSort(int[] nums, int left, int right) {
+     public static void quickSort(int[] nums, int left, int right) {
         if (left < right) {
             int swapIndex = pivot(nums, left, right);
 
@@ -58,7 +56,7 @@ public class QuickSort {
 //Time complexity: O(nlogn)
 
 
-// Youtube method
+
 //    public static void quickSort(int[] array) {
 //        quickSort(array, 0, array.length - 1);
 //    }
