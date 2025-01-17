@@ -10,6 +10,8 @@ import java.util.Arrays;
  *
  * @author thivya
  * 
+ * Refernce:Video https://www.youtube.com/watch?v=37E9ckMDdTk
+ * Code: https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
  */
 public class SecondLargest {
     public static int getSecondLargest(int[] arr) {

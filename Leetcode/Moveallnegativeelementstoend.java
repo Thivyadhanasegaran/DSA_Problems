@@ -26,6 +26,7 @@ Expected Auxiliary Space: O(n)
 
 
 * 
+* Reference: https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1?page=1&category=Arrays&difficulty=Easy&sortBy=submissions
  */
 public class Moveallnegativeelementstoend {
     public static void segregateElements(int[] arr) {

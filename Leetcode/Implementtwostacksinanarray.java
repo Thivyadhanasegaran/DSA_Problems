@@ -35,6 +35,7 @@ pop1()   the poped element will be 3 from stack1 and stack1 will be {2}
 pop2()   the poped element will be 4 from stack2 and now stack2 is empty
 pop2()   the stack2 is now empty hence returned -1.
 * 
+* Reference: https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?page=1&category=Arrays&difficulty=Easy&sortBy=submissions
  */
 public class Implementtwostacksinanarray {
    static class TwoStacks {

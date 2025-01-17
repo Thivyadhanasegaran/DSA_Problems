@@ -20,6 +20,7 @@ Input: arr[] = [1, 2, 3, 4, 5], k = 10
 Output: [4, 5]
 Explanation: As 4 + 5 = 9 is closest to 10.
 * 
+* Reference: https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1?page=1&category=Arrays&difficulty=Easy&sortBy=submissions
  */
 public class SumPairclosesttok {
     // Function to find the pair with the sum closest to the target `k`

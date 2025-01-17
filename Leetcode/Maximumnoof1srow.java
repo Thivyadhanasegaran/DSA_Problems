@@ -31,7 +31,8 @@ Output: 1
 Explanation: Row 1 has 2 ones whereas
 row 0 has just a single one. 
 * 
-
+* Reference: Code: https://takeuforward.org/arrays/find-the-row-with-maximum-number-of-1s/
+* Video: https://www.youtube.com/watch?v=SCz-1TtYxDI
  */
 public class Maximumnoof1srow {
     public static int maxOnes(int Mat[][], int N, int M) {

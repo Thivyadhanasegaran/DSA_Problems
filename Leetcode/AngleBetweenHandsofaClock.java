@@ -36,7 +36,7 @@ Constraints:
 1 <= hour <= 12
 0 <= minutes <= 59
 * 
-* 
+* Reference: https://leetcode.com/problems/angle-between-hands-of-a-clock/solutions/502738/java-python-c-simple-math-on-clock-angles/
  */
 public class AngleBetweenHandsofaClock {
     public static double angleClock(int hour, int minutes) {

@@ -29,7 +29,7 @@ Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
 * 
-* 
+* Reference: https://www.youtube.com/watch?v=excAOvwF_Wk
 * 
  */
 public class BestTimeToBuyAndSellStockDP {
@@ -65,3 +65,15 @@ public class BestTimeToBuyAndSellStockDP {
         return maxProfit;
     }
 }
+
+
+ /*Hint
+
+1. Track the Minimum Price: Start with the first price as minPrice and update it as you iterate through the array.
+
+2. Calculate Profit: For each price, compute the potential profit (price[i] - minPrice) and track the maximum profit.
+
+3. Update Maximum Profit: Use Math.max to keep the largest profit encountered so far.
+
+4. Update Minimum Price: Use Math.min to ensure minPrice reflects the lowest price seen up to the current day.
+*/

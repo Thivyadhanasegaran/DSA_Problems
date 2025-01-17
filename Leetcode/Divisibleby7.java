@@ -24,6 +24,7 @@ Output: 0
 Explanation: 1000 is not divisible
 by 7.
 * 
+* Reference: https://www.geeksforgeeks.org/check-whether-large-number-divisible-7/
 * 
  */
 public class Divisibleby7 {

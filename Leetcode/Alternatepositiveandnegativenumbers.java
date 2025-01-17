@@ -27,6 +27,7 @@ and then negative integer and so on (by maintaining the relative order as well),
 -2 after that 4 and then -1 and so on.
 Hence, the output is 9, -2, 4, -1, 5, -5, 0, -3, 2.
 * 
+* Reference: https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?page=1&category=Arrays&difficulty=Easy&sortBy=submissions
  */
 public class Alternatepositiveandnegativenumbers {
      public static void rearrange(ArrayList<Integer> arr) {

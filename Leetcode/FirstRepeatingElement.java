@@ -25,6 +25,7 @@ Explanation: All elements appear only once so answer is -1.
 Expected Time Complexity: O(n)
 Expected Auxilliary Space: O(n)
 * 
+* Reference: https://www.geeksforgeeks.org/problems/first-repeating-element4018/1?page=1&category=Arrays&difficulty=Easy&sortBy=submissions
 * 
  */
 public class FirstRepeatingElement {

@@ -34,6 +34,7 @@ A loop is present. If you remove it successfully, the answer will be true.
 Expected Time Complexity: O(n)
 Expected Space Complexity: O(1)
 * 
+* Reference video: https://www.youtube.com/watch?v=LWDVM_kgvdE
  */
 public class RemoveloopinLinkedList {
    static class Node {

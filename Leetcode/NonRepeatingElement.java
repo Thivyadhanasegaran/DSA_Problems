@@ -25,6 +25,7 @@ Explanation: There is not present any non-repeating element so answer should be 
 Expected Time Complexity: O(n).
 Expected Auxiliary Space: O(n).
 * 
+* Reference: https://www.geeksforgeeks.org/problems/non-repeating-element3958/1?page=1&category=Arrays&difficulty=Easy,Medium&sortBy=submissions
  */
 public class NonRepeatingElement {
     // Method to find the first non-repeating element

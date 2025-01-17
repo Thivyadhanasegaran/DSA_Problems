@@ -36,6 +36,7 @@ Output: 2
 Explanation: Minimum distance between the
 words "geeks" and "practice" is 2
 * 
+* Reference: https://www.geeksforgeeks.org/problems/closest-strings0611/1?page=1&difficulty=Easy&sortBy=submissions
  */
 public class ClosestStrings {
     // Method to find the shortest distance between two words in a list

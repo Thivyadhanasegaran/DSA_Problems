@@ -25,6 +25,7 @@ Explanation: Array elements after sorting it in the waveform are 4, 2, 8, 7, 10,
 Input: arr[] = [1]
 Output: [1]
 * 
+* reference: https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?page=1&category=Arrays&difficulty=Easy&sortBy=submissions
  */
 public class WaveArray {
     
